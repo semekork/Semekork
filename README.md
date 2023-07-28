@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Semekor.k**
 
-- - 😄 Pronouns: He/His
+- 😄 Pronouns: **He/His**
 
 - ⚡️ Fun fact **HTML and CSS, the building blocks of the web, were introduced in the early 1990s, revolutionizing web development and design.**
 
