@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋,Caleb Here </h1>
 <h3 align="center">A Front-End Developer</h3>
 
+- 🔭 I’m currently working on a website for an advertising company
+- 
 - 🌱 I’m currently learning **Java and  React**
 
 - 💬 Ask me about **Html and CSS**
