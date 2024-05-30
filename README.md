@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a website for an advertising company<br><br>🌱 I’m currently learning Java and React<br><br>💬 Ask me about Html and CSS<br><br>📫 How to reach me Caleb.dussey04@gmail.com<br><br>⚡️ Fun fact HTML and CSS, the building blocks of the web, were introduced in the early 1990s, revolutionizing web development and design<br><br>
+🔭 I’m currently working on a website for an advertising company<br><br>🌱 I’m currently learning Java and React<br><br>💬 Ask me about UI/UX <br><br>📫 How to reach me Caleb.dussey04@gmail.com<br><br>⚡️ Fun fact HTML and CSS, the building blocks of the web, were introduced in the early 1990s, revolutionizing web development and design<br><br>
 
 
 ## 🌐 Socials:
