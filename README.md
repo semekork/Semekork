@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a react native project <br>👀 I’m interested in backend and cybersecurity<br>🌱 I’m currently learning Django and Flutter<br>💬 Ask me about UI/UX <br>📫 How to reach me Caleb.dussey04@gmail.com<br>⚡️ Fun fact: I love Cars!
+🔭 I’m currently working on a react native project <br>👀 I’m interested in frontend and cybersecurity<br>🌱 I’m currently learning Django and Flutter<br>💬 Ask me about UI/UX<br>📱 I use React native for mobile development <br>🫠 I’m looking to collaborate on any frontend/mobile project<br>📫 How to reach me Caleb.dussey04@gmail.com<br>⚡️ Fun fact: I love Cars!
 
 
 ## 🌐 Socials:
