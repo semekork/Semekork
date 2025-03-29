@@ -1,3 +1,4 @@
+<img src="banner.jpg" style="width:100%" > <br><br>
 # 💫 About Me:
 🔭 I’m currently working on a react native project <br>👀 I’m interested in frontend and cybersecurity<br>💬 Ask me about UI/UX<br>📱 I use React native for mobile development <br>🫠 I’m looking to collaborate on any frontend/mobile project<br>📫 How to reach me Caleb.dussey04@gmail.com<br>⚡️ Fun fact: I love Cars!
 
@@ -10,14 +11,18 @@
       <img src="https://skillicons.dev/icons?i=photoshop,ai,pr,xd,git,css,figma,firebase,html,java,js,mysql,nodejs,react,tailwind,ts,vscode,npm,&perline=8" />
     </a>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Semekork&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Semekork&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Semekork&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--START_SECTION:waka-->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Semekork&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+```txt
+From: 21 March 2025 - To: 28 March 2025
 
+JavaScript   8 hrs 42 mins   ████████████████████████░   95.93 %
+JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+```
+
+<!--END_SECTION:waka-->
 
 
   
