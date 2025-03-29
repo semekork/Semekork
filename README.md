@@ -75,7 +75,6 @@ I'm currently focused on creating smooth, intuitive mobile experiences with Reac
 
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif" width="300" />
   
   <p><strong>Let's build something amazing together!</strong></p>
 </div>
