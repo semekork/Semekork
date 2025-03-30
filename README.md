@@ -20,7 +20,7 @@
 <img align="right" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="200" />
 
 - 🔭 Currently building awesome mobile experiences with React Native 
-- 👀 Passionate about frontend development and cybersecurity <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25" />
+- 👀 Passionate about frontend development and ui designing <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25" />
 - 💬 Ask me about UI design - I craft beautiful, intuitive interfaces! <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="25" />
 - 📱 Mobile dev enthusiast using React Native <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="25" />
 - 🤝 Looking to collaborate on exciting frontend/mobile projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" />
