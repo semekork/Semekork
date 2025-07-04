@@ -301,17 +301,6 @@ CSS          8 mins          ▒░░░░░░░░░░░░░░░░
 
 ---
 
-## 🎵 **Coding Playlist**
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=semekork&count=3&unique=true&width=600" />
-</div>
-
-<div align="center">
-  <p><em>🎧 Currently vibing to these tracks while coding</em></p>
-</div>
-
----
 
 ## 🌍 **Open Source Contributions**
 
