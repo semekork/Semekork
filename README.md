@@ -126,7 +126,9 @@ CSS          8 mins          ▒░░░░░░░░░░░░░░░░
   <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
     
   ### 🎵 **Spotify Profile Analyzer**
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317dfo7go264j2yunoe6a6zapnqi&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317dfo7go264j2yunoe6a6zapnqi&redirect=true)
+  <a href="https://github.com/semekork/spotify-profile-main">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=semekork&repo=spotify-profile-main&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&icon_color=4ecdc4&description_lines_count=3" />
+  </a>
   
   **🔥 Tech Stack:** `React` `Spotify API` `CSS3` `JavaScript`
   
